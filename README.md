@@ -1,3 +1,4 @@
+![Uploading output1.png…]()
 💬 Real-Time Chat App — CodTech Internship Task 2
 📌 Task Objective
 This project is part of the Full Stack Development Internship by CodTech. Task 2 Goal:
